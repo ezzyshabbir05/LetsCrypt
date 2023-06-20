@@ -1,0 +1,15 @@
+export const routeNames = {
+  addPublicKey: 'addPublicKey',
+  changeTheme: 'changeTheme',
+  confirmDeleteKeys: 'confirmDeleteKeys',
+  existingKeypair: 'existingKeypair',
+  file: 'file',
+  friendPublicKey: 'friendPublicKey',
+  fullKey: 'fullKey',
+  keypairGenerator: 'keypairGenerator',
+  keypairIntro: 'keypairIntro',
+  keypairs: 'keypairs',
+  newKeypair: 'newKeypair',
+  settings: 'settings',
+  text: 'text',
+};
