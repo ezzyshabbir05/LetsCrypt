@@ -21,7 +21,7 @@ function* hanldeEncryptTextPressed({ payload: { text } }) {
         `Message is encrypted. ${
           activeKey
             ? `Share it with ${activeKey}, only ${activeKey} can decrypt.`
-            : 'Only you can depryt.'
+            : 'Only you can decrypt.'
         }`
       )
     );

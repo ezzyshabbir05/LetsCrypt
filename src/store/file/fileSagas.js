@@ -60,7 +60,7 @@ function* handleEncryptPressed({ payload: { files } }) {
         `All files are encrypted. ${
           activeKey
             ? `Share them with ${activeKey}, only ${activeKey} can decrypt.`
-            : 'Only you can depryt.'
+            : 'Only you can decrypt.'
         }`
       )
     );
